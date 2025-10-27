@@ -1,20 +1,22 @@
-# Uppgift2A
+# 🤠 Chuck Norris Joke App
 
-A simple React Native app built with Expo that displays random Chuck Norris jokes.
+A simple React Native app built during my mobile development course (PIA14).  
+It fetches random Chuck Norris jokes from an open API and displays them with a clean UI.
 
-## 📱 Description
-This app shows a random Chuck Norris joke and lets you change it with one button press.  
-It was created as a school exercise to practice basic React Native concepts such as components, styling, and useState.
+---
 
-## 🚀 How to run the project
-1. Clone or download this repository.  
-2. In the terminal, run:
-   ```bash
-   npm install
-   npx expo start
-🧠 Technologies used
-React Native
-Expo
-TypeScript
-👨‍💻 Created by
-Aleksander
+### 🧠 Tech Stack
+- React Native (Expo)
+- TypeScript
+- API integration (https://api.chucknorris.io)
+
+---
+
+### 🚀 Features
+- Fetches a new random joke with one tap  
+- Smooth, mobile-friendly layout  
+- Built and tested on both iOS and Android  
+
+---
+
+💬 “Code hard. Laugh harder.” – Chuck Norris

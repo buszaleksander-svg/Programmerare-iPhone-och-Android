@@ -1,22 +1,15 @@
-# 🤠 Chuck Norris Joke App
+# Chuck Norris Joke App
 
-A simple React Native app built during my mobile development course (PIA14).  
-It fetches random Chuck Norris jokes from an open API and displays them with a clean UI.
+A small React Native project made during my mobile programming course.  
+It shows random Chuck Norris jokes from a free API — just for fun and practice.
 
 ---
 
-### 🧠 Tech Stack
+🛠️ **Built with**
 - React Native (Expo)
 - TypeScript
-- API integration (https://api.chucknorris.io)
+- API: https://api.chucknorris.io
 
 ---
 
-### 🚀 Features
-- Fetches a new random joke with one tap  
-- Smooth, mobile-friendly layout  
-- Built and tested on both iOS and Android  
-
----
-
-💬 “Code hard. Laugh harder.” – Chuck Norris
+Simple, fun, and made while learning 👊

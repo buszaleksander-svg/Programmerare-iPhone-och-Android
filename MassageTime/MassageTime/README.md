@@ -1,3 +1,7 @@
+MassageTime – Mobile Massage Booking App
+A React Native (Expo) mobile application built during my mobile programming studies.
+The app helps manage clients, bookings, and massage sessions in a small massage practice — simple, clean, and user-friendly.
+
 ✨ Main Features
 📋 Client list with details
 ➕ Create new bookings
